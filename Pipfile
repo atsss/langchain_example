@@ -11,6 +11,7 @@ langchain = "*"
 langchain-experimental = "*"
 jupyterlab = "*"
 langchain-openai = "*"
+tabulate = "*" # Dependency by langchain-experimental
 
 [dev-packages]
 
