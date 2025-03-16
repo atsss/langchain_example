@@ -10,6 +10,7 @@ numpy = "*"
 langchain = "*"
 langchain-experimental = "*"
 jupyterlab = "*"
+langchain-openai = "*"
 
 [dev-packages]
 
