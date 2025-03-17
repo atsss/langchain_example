@@ -13,6 +13,7 @@ jupyterlab = "*"
 langchain-openai = "*"
 tabulate = "*" # Dependency by langchain-experimental
 langchain-google-genai = "*"
+matplotlib = "*"
 
 [dev-packages]
 
