@@ -16,6 +16,7 @@ langchain-google-genai = "*"
 matplotlib = "*"
 langgraph = "*"
 langmem = "*"
+autogen = "*"
 
 [dev-packages]
 
