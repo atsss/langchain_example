@@ -17,6 +17,7 @@ matplotlib = "*"
 langgraph = "*"
 langmem = "*"
 autogen = "*"
+networkx = "*"
 
 [dev-packages]
 
