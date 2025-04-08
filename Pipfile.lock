@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "754ac0ade289f95d7fbc643c3ff9ce39bf94c8c285818435bac8318665372f0b"
+            "sha256": "e5042e5e775c99bd09d042b9014373c8df09223839c41f384ec5d7710ffd09c0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -2994,6 +2994,15 @@
             "index": "pypi",
             "markers": "python_version >= '3.7'",
             "version": "==0.9.0"
+        },
+        "tavily-python": {
+            "hashes": [
+                "sha256:47f8c0b41283d44849fe9531596cd26d3de42a59618ef66f9e1244d8fedba404",
+                "sha256:fdad5303f9f6603a06fddcc7e21b128bebc1adf7694e553a664caf87eb2d2d9d"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.6'",
+            "version": "==0.5.4"
         },
         "tenacity": {
             "hashes": [

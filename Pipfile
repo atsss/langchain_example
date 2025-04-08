@@ -18,6 +18,7 @@ langgraph = "*"
 langmem = "*"
 autogen = "*"
 networkx = "*"
+tavily-python = "*"
 
 [dev-packages]
 
